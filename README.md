@@ -2,6 +2,7 @@
 
 ## a) 
 *Note*: All arrays are listed in [Array.xlsx](https://github.com/lenareeb/ChemE-5440-PS3/blob/master/PS3/Arrays.xlsx) (which contains labeled rows and columns) and each array also has its own csv file.
+
 The stoichiometric array S ([Stoichiometric_array(S).csv](https://github.com/lenareeb/ChemE-5440-PS3/blob/master/PS3/Stoichiometric_array(S).csv)) was constructed in Excel using KEGG
 
 ## b) 
